@@ -1,6 +1,6 @@
 # Max Heap Visualiser
 ---
-**Max hep visualiser** is a visual representation of the working of a max heap tree. I made this project while learning **JavaFx**, to test my abilities.
+**Max hep visualiser** is a visual representation of the working of a max heap tree. This project was made, while learning **JavaFx** . 
 
 ## Working
 On running the project, you are greeted by a Main Window.  
@@ -42,15 +42,16 @@ Now, all you have to do is enter numbers at random (**Integers only**), and watc
 ### 4. Error Handling-
 
 * On entering a non integer value -
-![](https://github.com/wickedbaba/MaxHeapVisualizer/blob/main/PicturesForReadME/Error1.png = 100 x 20)
 
-<img src="https://github.com/wickedbaba/MaxHeapVisualizer/blob/main/PicturesForReadME/Error1.png" alt="drawing" width="200"/>
+<img src="https://github.com/wickedbaba/MaxHeapVisualizer/blob/main/PicturesForReadME/Error1.png" alt="Error1" width="500"/>
 
 * On trying to find a value that does not exist -
-![](https://github.com/wickedbaba/MaxHeapVisualizer/blob/main/PicturesForReadME/Error2.png)
+
+<img src="https://github.com/wickedbaba/MaxHeapVisualizer/blob/main/PicturesForReadME/Error2.png" alt="Error2" width="500"/>
 
 * On deleting a root node from an empty tree -
-![](https://github.com/wickedbaba/MaxHeapVisualizer/blob/main/PicturesForReadME/Error3.png)
+
+<img src="https://github.com/wickedbaba/MaxHeapVisualizer/blob/main/PicturesForReadME/Error3.png" alt="Error2" width="500"/>
 
 
 ## Contributors
