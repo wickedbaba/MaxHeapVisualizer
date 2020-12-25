@@ -60,3 +60,6 @@ Now, all you have to do is enter numbers at random (**Integers only**), and watc
  
 * [GS Sasank](https://github.com/gssasank)
 ___
+
+Cheers!
+Bwicked
