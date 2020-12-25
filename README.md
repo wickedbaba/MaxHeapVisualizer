@@ -4,8 +4,8 @@
 
 ## Working
 On running the project, you are greeted by a Main Window.  
-  
-![](https://github.com/wickedbaba/MaxHeapVisualizer/blob/main/PicturesForReadME/Intro1.png)  
+
+<img src="https://github.com/wickedbaba/MaxHeapVisualizer/blob/main/PicturesForReadME/Intro1.png" alt="Intro1" width="500"/>
   
 It contains -  
   
@@ -56,7 +56,7 @@ Now, all you have to do is enter numbers at random (**Integers only**), and watc
 
 ## Contributors
 
-- **Aryaman Singh Rana**
+* [Aryaman Singh Rana](https://github.com/wickedbaba)
  
-- **GS Sasank**
+* [GS Sasank](https://github.com/gssasank)
 ___
