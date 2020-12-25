@@ -42,7 +42,9 @@ Now, all you have to do is enter numbers at random (**Integers only**), and watc
 ### 4. Error Handling-
 
 * On entering a non integer value -
-![](https://github.com/wickedbaba/MaxHeapVisualizer/blob/main/PicturesForReadME/Error1.png)
+![](https://github.com/wickedbaba/MaxHeapVisualizer/blob/main/PicturesForReadME/Error1.png = 100 x 20)
+
+<img src="https://github.com/wickedbaba/MaxHeapVisualizer/blob/main/PicturesForReadME/Error1.png" alt="drawing" width="200"/>
 
 * On trying to find a value that does not exist -
 ![](https://github.com/wickedbaba/MaxHeapVisualizer/blob/main/PicturesForReadME/Error2.png)
